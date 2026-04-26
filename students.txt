@@ -1,0 +1,30 @@
+Aaliyaan,25K-0661,K250661@saos.edu.pk,pass101,95000,A,EE1005:UnGraded:;SS1014:UnGraded:;MT1008:UnGraded:
+Abdullah Aamir Farooqui,25K-0868,K250868@saos.edu.pk,pass102,0,A,CL1004:UnGraded:;EE1005:UnGraded:;MT1008:UnGraded:;SS1015:UnGraded:19/2/25=A;SS1014:UnGraded:
+Abdullah Moin,25K-0991,K250991@saos.edu.pk,pass103,87000,A,SS1014:UnGraded:;MT1008:UnGraded:;CL1004:UnGraded:
+Ali Naqi Khoso,25K-0989,K250989@saos.edu.pk,pass104,134000,A,EE1005:UnGraded:;SS1015:UnGraded:;MT1008:UnGraded:;CL1004:UnGraded:
+Ali Raza,25K-0827,K250827@saos.edu.pk,pass105,175000,A,MT1008:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:;EE1005:UnGraded:
+Amna Saad Siddique,25K-0615,K250615@saos.edu.pk,pass106,99000,A,CL1004:UnGraded:;SS1014:UnGraded:;MT1008:UnGraded:
+Areesh Ahmed Khan,25K-0737,K250737@saos.edu.pk,pass107,142000,A,EE1005:UnGraded:;CL1004:UnGraded:;MT1008:UnGraded:;SS1015:UnGraded:
+Arsal Ali,25K-0968,K250968@saos.edu.pk,pass108,88000,A,SS1014:UnGraded:;CL1004:UnGraded:;MT1008:UnGraded:
+Fatima Javed,25K-0594,K250594@saos.edu.pk,pass109,160000,A,EE1005:UnGraded:;MT1008:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:
+Habib Faisal,25K-0690,K250690@saos.edu.pk,pass110,77000,A,CL1004:UnGraded:;SS1015:UnGraded:;MT1008:UnGraded:
+Hafsa Mukarram,25K-0894,K250894@saos.edu.pk,pass111,183000,A,EE1005:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:;MT1008:UnGraded:
+Hamza Rashid Siddiqui,25K-0945,K250945@saos.edu.pk,pass112,91000,A,SS1015:UnGraded:;MT1008:UnGraded:;CL1004:UnGraded:
+Haris Jawaid,25K-3005,K253005@saos.edu.pk,pass113,146000,A,EE1005:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:;SS1015:UnGraded:
+Jasir Sheikh,25K-0701,K250701@saos.edu.pk,pass114,73000,A,MT1008:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:
+Khunais Baig,25K-0508,K250508@saos.edu.pk,pass115,168000,A,EE1005:UnGraded:;CL1004:UnGraded:;MT1008:UnGraded:
+Kirshna Kumari,25K-0519,K250519@saos.edu.pk,pass116,102000,A,SS1015:UnGraded:;CL1004:UnGraded:;MT1008:UnGraded:
+Lubna Jeswani,25K-0926,K250926@saos.edu.pk,pass117,119000,A,EE1005:UnGraded:;SS1014:UnGraded:;CL1004:UnGraded:
+Maham Mustafa,25K-0764,K250764@saos.edu.pk,pass118,85000,A,CL1004:UnGraded:;SS1015:UnGraded:;MT1008:UnGraded:
+Moawiz Ahmed,25K-0518,K250518@saos.edu.pk,pass119,138000,A,EE1005:UnGraded:;CL1004:UnGraded:;MT1008:UnGraded:;SS1014:UnGraded:
+Muhammad Ali Hamza,25K-0709,K250709@saos.edu.pk,pass120,94000,A,SS1015:UnGraded:;MT1008:UnGraded:;CL1004:UnGraded:
+Muhammad Anas,25K-0899,K250899@saos.edu.pk,pass121,155000,B,EE1005:UnGraded:15/02/26=P;CL1004:UnGraded:;SS1014:UnGraded:
+Muhammad Arif,25K-0866,K250866@saos.edu.pk,pass122,81000,B,SS1015:UnGraded:15/2/26=A;CL1004:UnGraded:;MT1008:UnGraded:
+Muhammad Daniyal Siddiqui,25K-0644,K250644@saos.edu.pk,pass123,176000,B,EE1005:UnGraded:15/02/26=P;MT1008:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:
+Muhammad Hassaan,25K-0802,K250802@saos.edu.pk,pass124,92000,B,CL1004:UnGraded:;SS1015:UnGraded:15/2/26=P;MT1008:UnGraded:
+Muhammad Huzaifa Bin Faisal,25K-0746,K250746@saos.edu.pk,pass125,140000,B,EE1005:UnGraded:15/02/26=A;CL1004:UnGraded:;SS1014:UnGraded:;SS1015:UnGraded:15/2/26=A
+Muhammad Mubashir Nadeem,25K-0649,K250649@saos.edu.pk,pass126,78000,B,MT1008:UnGraded:;CL1004:UnGraded:;SS1014:UnGraded:
+Muhammad Qasim,25K-0608,K250608@saos.edu.pk,pass127,165000,B,EE1005:UnGraded:15/02/26=P;CL1004:UnGraded:;MT1008:UnGraded:
+Muhammad Siddique,25K-0610,K250610@saos.edu.pk,pass128,88000,B,SS1015:UnGraded:15/2/26=P;CL1004:UnGraded:;MT1008:UnGraded:
+Muhammad Taha Ahmed,25K-0650,K250650@saos.edu.pk,pass129,132000,B,EE1005:B-:15/02/26=A;SS1014:UnGraded:;CL1004:UnGraded:
+Ali Shanawar,25K-0564,K250564@saos.edu.pk,pass130,0,B,CL1004:UnGraded:;MT1008:UnGraded:;SS1015:F:15/2/26=A;EE1005:UnGraded:15/02/26=P;SS1014:UnGraded:

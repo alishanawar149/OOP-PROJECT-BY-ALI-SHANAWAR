@@ -1,0 +1,10 @@
+Dr. Obaidullah Khan,obaidullah.khan@saos.edu.pk,fac301,92000,CL1004-A;CL1004-B
+Prof. Sana Naz,sana.naz@saos.edu.pk,fac302,67000,SS1014-A
+Dr. Hijab Sikander,hijab.sikander@saos.edu.pk,fac303,88000,EE1005-B
+Prof. Aneesa Nawaz,aneesa.nawaz@saos.edu.pk,fac304,74000,MT1008-A;MT1008-B
+Dr. Fahad Riaz,fahad.riaz@saos.edu.pk,fac305,99000,CS2002-A
+Prof. Tahir Hussain,tahir.hussain@saos.edu.pk,fac306,80900,SS1015-A;SS1015-B
+Dr. Talha Shahid,talha.shahid@saos.edu.pk,fac307,56000,EE1005-A
+Prof. Madiha Rehman,madiha.rehman@saos.edu.pk,fac308,73000,CL1004-B
+Dr. Khadija Shereen,khadija.shereen@saos.edu.pk,fac309,86000,MT1008-A
+Prof. Khushboo Farid,khushboo.farid@saos.edu.pk,fac310,69000,SS1014-B
